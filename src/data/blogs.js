@@ -5359,6 +5359,617 @@ export const blogs = [
     },
     icons: { icon: "/icon.png" }
   }
+},
+
+{
+  id: 21,
+  slug: "ayurvedic-diet-for-kidney-patients-weekly-meal-plan",
+  title: "Ayurvedic Diet for Kidney Patients: Weekly Meal Plan",
+  subtitle: "Follow a kidney-friendly Ayurvedic diet with a simple 7-day meal plan, foods to eat and avoid, and shopping tips. Check with your nephrologist first.",
+  category: "Ayurveda | Kidney Care",
+  author: "Balprada Ayurvedic Hospital Team",
+  date: "2026-11-13",
+  readTime: "10 min read",
+  image: "https://res.cloudinary.com/hiu9gggc/image/upload/v1794548065/ayurvedic-diet-for-kidney-patients-weekly-meal-plan.jpg",
+  content: "Follow a kidney-friendly Ayurvedic diet with a simple 7-day meal plan, foods to eat and avoid, cooking tips and a smart grocery list. Check with your nephrologist first.",
+  tags: [
+    "Ayurvedic Diet for Kidney Patients",
+    "Kidney Patient Diet Plan",
+    "Weekly Meal Plan for Kidney Patients",
+    "Ayurvedic Diet for CKD",
+    "Kidney Friendly Indian Diet",
+    "Low Potassium Indian Foods",
+    "Low Phosphorus Diet India",
+    "Kidney Patient Diet Chart",
+    "Ayurveda for Kidney Health",
+    "What to Eat in Kidney Disease",
+    "Foods to Avoid in Kidney Disease",
+    "7 Day Kidney Diet Plan",
+    "Renal Diet India",
+    "Ayurvedic Meal Plan",
+    "Kidney Friendly Vegetables India",
+    "Moong Dal for Kidney Patients",
+    "Lauki for Kidney Patients",
+    "Low Sodium Indian Recipes",
+    "Chronic Kidney Disease Diet India",
+    "Ayurvedic Food for Kidney",
+    "Kidney Healthy Grocery List",
+    "Renal Diet Vegetarian India",
+    "Diet for Kidney Patients in Hindi",
+    "The Buyzaar Mart"
+  ],
+
+  fullContent: {
+    introduction: "Living with kidney disease means every meal matters, because weak kidneys struggle to filter extra salt, potassium, phosphorus and fluid. Ayurveda favours light, fresh, easily digested food, which fits many kidney-friendly eating principles. This guide covers foods to choose and avoid, a 7-day meal plan and a simple shopping list.",
+
+    sections: [
+      
+
+      {
+        heading: "What Ayurveda Says About Kidney Health",
+        content: [
+          { type: "subheading", text: "The Ayurvedic View" },
+          { type: "bullets", items: [
+            "Ayurveda links the urinary system with mutravaha srotas, the channels that carry urine out of the body.",
+            "It recommends warm, freshly cooked, simple meals that are easy to digest.",
+            "It discourages heavy, stale, oily, very salty and processed food."
+          ]},
+          { type: "subheading", text: "Where Ayurveda and Modern Renal Care Agree" },
+          { type: "bullets", items: [
+            "Both favour fresh food over packaged food.",
+            "Both advise less salt and fewer fried snacks.",
+            "Both stress regular meal times and sensible portions.",
+            "Both prefer home-cooked meals, where you control every ingredient."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Kidney-Safe Ground Rules",
+        content: [
+          { type: "subheading", text: "Know Your Numbers" },
+          { type: "bullets", items: [
+            "Your limits for potassium, phosphorus, protein and fluids depend on your CKD stage, blood reports and dialysis status.",
+            "Ask your doctor for your personal limits and treat any plan below as a template."
+          ]},
+          { type: "subheading", text: "Core Principles" },
+          { type: "bullets", items: [
+            "Keep salt low and skip added salt at the table.",
+            "Avoid &quot;low-sodium&quot; salt substitutes, since many contain potassium chloride.",
+            "Follow your doctor&apos;s fluid limit exactly.",
+            "Eat fresh, home-cooked meals in moderate portions."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Foods Often Included in a Kidney-Friendly Ayurvedic Diet",
+        content: [
+          { type: "subheading", text: "Vegetables" },
+          { type: "bullets", items: [
+            "Bottle gourd (lauki) is light, cooling and generally low in potassium.",
+            "Ridge gourd (turai), pointed gourd (parwal) and tinda are gentle, easy-to-digest choices.",
+            "Cabbage, cauliflower and capsicum are commonly used in kidney diets.",
+            "Tip: Peel, chop small, soak and boil vegetables, then discard the water to lower potassium."
+          ]},
+          { type: "subheading", text: "Grains" },
+          { type: "bullets", items: [
+            "White rice, suji, poha, semiya and refined wheat roti are usually easier on the kidneys than bran-rich whole grains, which carry more phosphorus and potassium.",
+            "Dalia can work in small portions if your doctor approves."
+          ]},
+          { type: "subheading", text: "Dals and Protein" },
+          { type: "bullets", items: [
+            "Moong dal is a classic easy-to-digest Ayurvedic dal.",
+            "Wash it well and keep the consistency thin.",
+            "Keep portions small and ask your dietitian how much protein suits you."
+          ]},
+          { type: "subheading", text: "Fruits" },
+          { type: "bullets", items: [
+            "Apple is typically a safer choice in measured portions.",
+            "Banana, orange, mango and coconut water are high in potassium and often restricted.",
+            "Confirm with your doctor."
+          ]},
+          { type: "subheading", text: "Spices" },
+          { type: "bullets", items: [
+            "Cumin, coriander, fennel, ajwain, curry leaves, hing and a pinch of turmeric add flavour without relying on salt.",
+            "A little fresh lemon juice can lift taste."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Foods to Limit or Avoid",
+        content: [
+          { type: "bullets", items: [
+            "<strong>High-potassium foods:</strong> potatoes, tomatoes, spinach, beetroot, bananas, oranges, coconut water and dried fruits, depending on your lab values.",
+            "<strong>High-phosphorus foods:</strong> cola drinks, processed cheese, packaged snacks and, for some people, large amounts of dairy, nuts and whole grains.",
+            "<strong>Salty foods:</strong> pickles, papad, namkeen, instant noodles, chips and ready-to-eat mixes.",
+            "<strong>Heavy and fried food:</strong> deep-fried snacks and very oily curries.",
+            "<strong>Alcohol and packaged juices.</strong>"
+          ]}
+        ]
+      },
+
+      {
+        heading: "7-Day Ayurvedic-Style Kidney-Friendly Meal Plan",
+        content: [
+          { type: "bullets", items: [
+            "Keep portions small and adjust to your doctor&apos;s advice on protein, potassium and fluids."
+          ]},
+          { type: "subheading", text: "Day 1 (Monday)" },
+          { type: "bullets", items: [
+            "<strong>Breakfast:</strong> Vegetable suji upma with carrot and capsicum.",
+            "<strong>Lunch:</strong> Roti, lauki sabzi, thin moong dal.",
+            "<strong>Dinner:</strong> Rice with turai sabzi."
+          ]},
+          { type: "subheading", text: "Day 2 (Tuesday)" },
+          { type: "bullets", items: [
+            "<strong>Breakfast:</strong> Poha with onion and a little lemon, no peanuts.",
+            "<strong>Lunch:</strong> Rice, cabbage sabzi, light dal.",
+            "<strong>Dinner:</strong> Warm lauki soup with one roti."
+          ]},
+          { type: "subheading", text: "Day 3 (Wednesday)" },
+          { type: "bullets", items: [
+            "<strong>Breakfast:</strong> Dalia porridge cooked with water, topped with chopped apple.",
+            "<strong>Lunch:</strong> Roti, parwal sabzi.",
+            "<strong>Dinner:</strong> Light moong dal khichdi."
+          ]},
+          { type: "subheading", text: "Day 4 (Thursday)" },
+          { type: "bullets", items: [
+            "<strong>Breakfast:</strong> Rice-flour cheela with grated lauki.",
+            "<strong>Lunch:</strong> Rice, cauliflower sabzi, thin dal.",
+            "<strong>Dinner:</strong> Roti with turai sabzi."
+          ]},
+          { type: "subheading", text: "Day 5 (Friday)" },
+          { type: "bullets", items: [
+            "<strong>Breakfast:</strong> Semiya upma with low-potassium vegetables.",
+            "<strong>Lunch:</strong> Roti, cabbage-carrot sabzi.",
+            "<strong>Dinner:</strong> Lauki soup with rice."
+          ]},
+          { type: "subheading", text: "Day 6 (Saturday)" },
+          { type: "bullets", items: [
+            "<strong>Breakfast:</strong> Vegetable dalia.",
+            "<strong>Lunch:</strong> Rice, parwal sabzi, thin moong dal.",
+            "<strong>Dinner:</strong> Moong dal khichdi with a little ghee, if approved."
+          ]},
+          { type: "subheading", text: "Day 7 (Sunday)" },
+          { type: "bullets", items: [
+            "<strong>Breakfast:</strong> Apple slices with a plain roti.",
+            "<strong>Lunch:</strong> Rice, tinda or lauki sabzi, light dal.",
+            "<strong>Dinner:</strong> Roti with cabbage sabzi."
+          ]},
+          { type: "subheading", text: "Snack Ideas" },
+          { type: "bullets", items: [
+            "Apple slices, unsalted murmura or a plain roti with a light sabzi.",
+            "Avoid packaged namkeen and salted biscuits."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Cooking Tips for Kidney Patients",
+        content: [
+          { type: "bullets", items: [
+            "<strong>Leach vegetables:</strong> soak cut vegetables in warm water for a few hours, then boil in fresh water and drain.",
+            "<strong>Use whole-spice tempering:</strong> cumin, hing and curry leaves build flavour without extra salt.",
+            "<strong>Cook fresh:</strong> avoid stale or repeatedly reheated food.",
+            "<strong>Use less oil:</strong> steam, boil or lightly sauté instead of deep-frying.",
+            "<strong>Measure portions:</strong> use a small bowl or cup for dal, rice and fluids."
+          ]}
+        ]
+      },
+
+      {
+        heading: "A Word of Caution on Herbs and Supplements",
+        content: [
+          { type: "bullets", items: [
+            "Do not start Ayurvedic herbs, churnas, bhasmas or &quot;kidney cleansing&quot; products on your own.",
+            "Some herbal products contain heavy metals or are high in potassium, and may harm weakened kidneys or interact with medicines.",
+            "Tell your nephrologist and your Ayurvedic practitioner about every product you take.",
+            "Be wary of any product that claims to cure kidney disease."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Smart Grocery List for a Kidney-Friendly Week",
+        content: [
+          { type: "bullets", items: [
+            "<strong>Vegetables:</strong> lauki, turai, parwal, tinda, cabbage, cauliflower, capsicum, carrot.",
+            "<strong>Grains:</strong> white rice, suji, poha, dalia, semiya, atta.",
+            "<strong>Dals:</strong> split yellow moong dal.",
+            "<strong>Fruit:</strong> apples.",
+            "<strong>Flavour:</strong> cumin, coriander, fennel, ajwain, turmeric, hing, curry leaves, lemon.",
+            "<strong>Label check:</strong> choose plain, unsalted staples with low sodium and no added phosphates.",
+            "Neighbourhood supermarkets like The Buyzaar Mart stock many of these everyday staples under one roof, so you can build a fresh weekly basket without relying on packaged food.",
+            "Always read labels before buying."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Final Thoughts",
+        content: [
+          { type: "bullets", items: [
+            "An Ayurvedic-style kidney diet centres on fresh, light, home-cooked meals with little salt and no heavy processed food.",
+            "The 7-day plan above is a starting template, not a prescription.",
+            "Work with your nephrologist and a renal dietitian to adjust it to your stage, reports and treatment.",
+            "Start small, read every label and build your weekly basket around simple staples.",
+            "Small, consistent food choices, made with medical guidance, make the biggest difference over time."
+          ]}
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "Can an Ayurvedic diet cure kidney disease?",
+      answer: "No. Diet can support kidney health and slow strain, but it does not cure kidney disease. Use it alongside your doctor&apos;s treatment, never instead of it."
+    },
+    {
+      question: "Is moong dal safe for kidney patients?",
+      answer: "Moong dal is often included because it is light and easy to digest. It still contains potassium, phosphorus and protein, so keep portions small and follow your dietitian&apos;s limit."
+    },
+    {
+      question: "Which vegetables are usually kidney-friendly?",
+      answer: "Lauki, turai, parwal, tinda, cabbage, cauliflower and capsicum are commonly used. Leaching them (soak, boil, drain) can further reduce potassium."
+    },
+    {
+      question: "Which fruits should kidney patients avoid?",
+      answer: "Banana, orange, mango, coconut water and dried fruits are high in potassium and are often restricted. Apple in measured portions is commonly allowed, but confirm with your doctor."
+    },
+    {
+      question: "Can kidney patients take Ayurvedic herbs?",
+      answer: "Only with approval from your nephrologist. Some herbal products can be unsafe for weak kidneys, so never self-medicate."
+    },
+    {
+      question: "How much water should a kidney patient drink?",
+      answer: "It depends on your stage, urine output and dialysis status. Follow the fluid limit set by your doctor, and don&apos;t copy general &quot;drink 3 litres a day&quot; advice."
+    },
+    {
+      question: "Is this meal plan suitable for dialysis patients?",
+      answer: "Dialysis patients often need more protein and have different potassium and fluid limits. Use the plan only as a template and have it adjusted by your renal dietitian."
+    },
+    {
+      question: "Is this plan vegetarian?",
+      answer: "Yes, it is fully vegetarian, which fits traditional Ayurvedic eating. Your dietitian can help you meet protein needs within your kidney limits."
+    }
+  ],
+
+  metaTags: {
+    title: "Ayurvedic Diet for Kidney Patients: Weekly Meal Plan",
+    description: "Follow a kidney-friendly Ayurvedic diet with a simple 7-day meal plan, foods to eat and avoid, and shopping tips. Check with your nephrologist first.",
+    keywords: "Ayurvedic diet for kidney patients, kidney patient diet plan, weekly meal plan for kidney patients, Ayurvedic diet for CKD, kidney friendly Indian diet, low potassium Indian foods, low phosphorus diet India, kidney patient diet chart, Ayurveda for kidney health, what to eat in kidney disease, foods to avoid in kidney disease, 7 day kidney diet plan, renal diet India, Ayurvedic meal plan, kidney friendly vegetables India, moong dal for kidney patients, lauki for kidney patients, low sodium Indian recipes, chronic kidney disease diet India, Ayurvedic food for kidney, kidney healthy grocery list, renal diet vegetarian India, diet for kidney patients in Hindi, The Buyzaar Mart",
+    alternates: {
+      canonical: "https://www.balpradaindia.com/blog/ayurvedic-diet-for-kidney-patients-weekly-meal-plan"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.balpradaindia.com/blog/ayurvedic-diet-for-kidney-patients-weekly-meal-plan",
+      title: "Ayurvedic Diet for Kidney Patients: Weekly Meal Plan",
+      description: "Follow a kidney-friendly Ayurvedic diet with a simple 7-day meal plan, foods to eat and avoid, and shopping tips. Check with your nephrologist first.",
+      images: [{ url: "/icon.png", width: 1200, height: 630, alt: "Ayurvedic Diet for Kidney Patients: Weekly Meal Plan — Balprada Ayurvedic Hospital" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Ayurvedic Diet for Kidney Patients: Weekly Meal Plan",
+      description: "Follow a kidney-friendly Ayurvedic diet with a simple 7-day meal plan, foods to eat and avoid, and shopping tips. Check with your nephrologist first.",
+      images: ["/icon.png"]
+    },
+    icons: { icon: "/icon.png" }
+  }
+},
+
+{
+  id: 22,
+  slug: "ayurvedic-diet-for-fatty-liver-weekly-meal-plan",
+  title: "Ayurvedic Diet for Fatty Liver: Weekly Meal Plan",
+  subtitle: "Follow a simple Ayurvedic diet for fatty liver with a 7-day meal plan, foods to eat and avoid, and a grocery list. Consult your doctor before starting.",
+  category: "Ayurveda | Liver Care",
+  author: "Balprada Ayurvedic Hospital Team",
+  date: "2026-11-13",
+  readTime: "10 min read",
+  image: "https://res.cloudinary.com/hiu9gggc/image/upload/v1794548148/ayurvedic-diet-for-fatty-liver-weekly-meal-plan.jpg",
+  content: "Follow a simple Ayurvedic diet for fatty liver with a 7-day meal plan, foods to eat and avoid, cooking tips and a smart grocery list. Consult your doctor before starting.",
+  tags: [
+    "Ayurvedic Diet for Fatty Liver",
+    "Fatty Liver Diet Plan",
+    "Weekly Meal Plan for Fatty Liver",
+    "Fatty Liver Diet Chart India",
+    "Ayurvedic Diet for Liver Health",
+    "What to Eat in Fatty Liver",
+    "Foods to Avoid in Fatty Liver",
+    "7 Day Fatty Liver Diet Plan",
+    "Indian Diet for Fatty Liver",
+    "Fatty Liver Diet Vegetarian",
+    "Ayurveda for Fatty Liver",
+    "How to Reduce Fatty Liver Naturally",
+    "Liver Friendly Foods India",
+    "Millets for Fatty Liver",
+    "Lauki for Fatty Liver",
+    "Moong Dal for Fatty Liver",
+    "Buttermilk for Fatty Liver",
+    "Turmeric for Liver Health",
+    "Ayurvedic Meal Plan for Weight Loss",
+    "Non Alcoholic Fatty Liver Diet",
+    "NAFLD Diet India",
+    "Fatty Liver Grade 1 Diet",
+    "Liver Detox Foods Ayurveda",
+    "The Buyzaar Mart"
+  ],
+
+  fullContent: {
+    introduction: "Fatty liver means extra fat builds up in liver cells. It is increasingly common in India and is often linked to excess weight, diabetes, high cholesterol and a sedentary lifestyle. Ayurveda treats the liver (yakrit) as central to digestion and metabolism, and recommends light, fresh, easily digested food.",
+
+    sections: [
+      
+
+      {
+        heading: "What Ayurveda Says About Fatty Liver",
+        content: [
+          { type: "subheading", text: "The Ayurvedic View" },
+          { type: "bullets", items: [
+            "Ayurveda often links fatty liver to imbalanced kapha and pitta, along with weak digestion (mandagni).",
+            "It points to heavy, oily, sweet and processed food, irregular meals and low physical activity as common triggers."
+          ]},
+          { type: "subheading", text: "Where Ayurveda and Modern Medicine Agree" },
+          { type: "bullets", items: [
+            "Both advise cutting sugar, refined flour and fried food.",
+            "Both favour fibre-rich, home-cooked meals.",
+            "Both stress regular exercise and healthy weight loss.",
+            "Both advise avoiding alcohol."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Core Principles of an Ayurvedic Fatty Liver Diet",
+        content: [
+          { type: "subheading", text: "Eat Light and Fresh" },
+          { type: "bullets", items: [
+            "Choose freshly cooked, warm meals over stale or reheated food.",
+            "Fill half your plate with vegetables."
+          ]},
+          { type: "subheading", text: "Cut What Burdens the Liver" },
+          { type: "bullets", items: [
+            "Reduce sugar, sweets and sugary drinks.",
+            "Avoid maida, deep-fried snacks and packaged foods.",
+            "Use oil and ghee in small, measured amounts."
+          ]},
+          { type: "subheading", text: "Eat Mindfully" },
+          { type: "bullets", items: [
+            "Keep fixed meal times and avoid late, heavy dinners.",
+            "Stop eating before you feel completely full.",
+            "Leave a gap of two to three hours between dinner and sleep."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Foods to Include",
+        content: [
+          { type: "subheading", text: "Vegetables" },
+          { type: "bullets", items: [
+            "Bottle gourd (lauki), ridge gourd (turai) and bitter gourd (karela) are light and traditionally used for liver wellness.",
+            "Leafy greens like spinach, methi and bathua add fibre and nutrients.",
+            "Broccoli, cabbage, carrot, beetroot and cucumber add variety."
+          ]},
+          { type: "subheading", text: "Grains and Millets" },
+          { type: "bullets", items: [
+            "Jowar, bajra, ragi, oats and daliya offer more fibre than refined flour.",
+            "Brown rice or small portions of red rice can replace large servings of white rice."
+          ]},
+          { type: "subheading", text: "Dals and Protein" },
+          { type: "bullets", items: [
+            "Moong dal and masoor dal are easy to digest.",
+            "Chana, rajma and sprouts add fibre and plant protein.",
+            "Paneer from low-fat milk and curd can fit in moderate amounts."
+          ]},
+          { type: "subheading", text: "Fruits" },
+          { type: "bullets", items: [
+            "Apple, papaya, guava, pear and berries are good choices in measured portions.",
+            "Amla is a classic Ayurvedic fruit, rich in vitamin C."
+          ]},
+          { type: "subheading", text: "Healthy Fats and Seeds" },
+          { type: "bullets", items: [
+            "Walnuts, flaxseed and pumpkin seeds in small amounts support healthy fat intake.",
+            "Cold-pressed mustard or groundnut oil can be used sparingly."
+          ]},
+          { type: "subheading", text: "Spices and Drinks" },
+          { type: "bullets", items: [
+            "Turmeric, cumin, coriander, ajwain, garlic and ginger add flavour and are commonly used in Ayurvedic cooking.",
+            "Buttermilk (takra) with cumin, warm water and unsweetened green tea are good drink choices."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Foods to Limit or Avoid",
+        content: [
+          { type: "bullets", items: [
+            "<strong>Sugar and sweets:</strong> mithai, packaged juices, soft drinks, energy drinks and sweetened tea or coffee.",
+            "<strong>Refined foods:</strong> maida, white bread, biscuits, bakery items and instant noodles.",
+            "<strong>Fried and oily food:</strong> samosa, pakora, puri, chips and street-style fast food.",
+            "<strong>Excess ghee, butter and cream.</strong>",
+            "<strong>Red and processed meat.</strong>",
+            "<strong>Alcohol, which can worsen liver damage.</strong>",
+            "<strong>Heavy night-time meals and frequent snacking.</strong>"
+          ]}
+        ]
+      },
+
+      {
+        heading: "7-Day Ayurvedic-Style Fatty Liver Meal Plan",
+        content: [
+          { type: "bullets", items: [
+            "Keep portions moderate and adjust to your doctor&apos;s advice, especially if you have diabetes or other conditions."
+          ]},
+          { type: "subheading", text: "Day 1 (Monday)" },
+          { type: "bullets", items: [
+            "<strong>Breakfast:</strong> Vegetable oats upma.",
+            "<strong>Lunch:</strong> Jowar roti, lauki sabzi, moong dal, cucumber salad.",
+            "<strong>Dinner:</strong> Vegetable daliya khichdi."
+          ]},
+          { type: "subheading", text: "Day 2 (Tuesday)" },
+          { type: "bullets", items: [
+            "<strong>Breakfast:</strong> Besan cheela with grated vegetables and mint chutney.",
+            "<strong>Lunch:</strong> Bajra roti, methi sabzi, buttermilk.",
+            "<strong>Dinner:</strong> Clear vegetable soup with a roti."
+          ]},
+          { type: "subheading", text: "Day 3 (Wednesday)" },
+          { type: "bullets", items: [
+            "<strong>Breakfast:</strong> Poha with vegetables and sprouts.",
+            "<strong>Lunch:</strong> Brown rice, masoor dal, turai sabzi, salad.",
+            "<strong>Dinner:</strong> Moong dal chilla with curd."
+          ]},
+          { type: "subheading", text: "Day 4 (Thursday)" },
+          { type: "bullets", items: [
+            "<strong>Breakfast:</strong> Ragi porridge with chopped apple.",
+            "<strong>Lunch:</strong> Roti, karela sabzi, chana salad.",
+            "<strong>Dinner:</strong> Lauki soup with sautéed vegetables."
+          ]},
+          { type: "subheading", text: "Day 5 (Friday)" },
+          { type: "bullets", items: [
+            "<strong>Breakfast:</strong> Vegetable daliya.",
+            "<strong>Lunch:</strong> Jowar roti, mixed dal, cabbage sabzi, buttermilk.",
+            "<strong>Dinner:</strong> Moong dal khichdi with a little ghee."
+          ]},
+          { type: "subheading", text: "Day 6 (Saturday)" },
+          { type: "bullets", items: [
+            "<strong>Breakfast:</strong> Sprouts salad with a roti.",
+            "<strong>Lunch:</strong> Brown rice, rajma (small portion), spinach sabzi.",
+            "<strong>Dinner:</strong> Grilled or steamed paneer with vegetables."
+          ]},
+          { type: "subheading", text: "Day 7 (Sunday)" },
+          { type: "bullets", items: [
+            "<strong>Breakfast:</strong> Oats idli or vegetable upma.",
+            "<strong>Lunch:</strong> Bajra roti, mixed vegetable sabzi, dal, salad.",
+            "<strong>Dinner:</strong> Light vegetable soup with one roti."
+          ]},
+          { type: "subheading", text: "Snack Ideas" },
+          { type: "bullets", items: [
+            "Apple, guava, papaya, roasted chana, a few walnuts or unsweetened green tea.",
+            "Skip biscuits, namkeen and sugary snacks."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Lifestyle Habits That Support Liver Health",
+        content: [
+          { type: "bullets", items: [
+            "Walk briskly for at least 30 minutes most days, or as your doctor advises.",
+            "Add yoga or gentle stretching.",
+            "Aim for gradual, steady weight loss rather than crash dieting. Even modest weight loss can help reduce liver fat.",
+            "Sleep on a regular schedule.",
+            "Keep blood sugar, blood pressure and cholesterol under control.",
+            "Get regular liver function tests and ultrasound follow-ups."
+          ]}
+        ]
+      },
+
+      {
+        heading: "A Word of Caution on Herbs and Detox Products",
+        content: [
+          { type: "bullets", items: [
+            "Do not start Ayurvedic herbs, powders or &quot;liver detox&quot; products on your own.",
+            "Some herbal products can themselves stress the liver, and quality varies widely.",
+            "Tell your doctor and Ayurvedic practitioner about every supplement you take.",
+            "Be wary of any product that promises to cure fatty liver quickly."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Smart Grocery List for a Liver-Friendly Week",
+        content: [
+          { type: "bullets", items: [
+            "<strong>Vegetables:</strong> lauki, turai, karela, spinach, methi, cabbage, carrot, cucumber, broccoli.",
+            "<strong>Grains:</strong> jowar, bajra, ragi, oats, daliya, brown rice.",
+            "<strong>Dals and pulses:</strong> moong dal, masoor dal, chana, rajma.",
+            "<strong>Fruits:</strong> apple, guava, papaya, amla.",
+            "<strong>Seeds and nuts:</strong> flaxseed, walnuts.",
+            "<strong>Flavour:</strong> turmeric, cumin, coriander, ajwain, garlic, ginger.",
+            "<strong>Label check:</strong> choose products with no added sugar, low sodium and no trans fats.",
+            "Neighbourhood supermarkets like The Buyzaar Mart stock many of these everyday staples, so you can build a fresh weekly basket in one visit.",
+            "Always read labels before buying."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Final Thoughts",
+        content: [
+          { type: "bullets", items: [
+            "An Ayurvedic-style fatty liver diet centres on fresh, light, fibre-rich meals with little sugar, refined flour and fried food.",
+            "The 7-day plan above is a starting template, not a prescription.",
+            "Pair your diet with daily movement, good sleep and regular check-ups.",
+            "Work with your doctor or a qualified dietitian to adjust the plan to your reports and health conditions.",
+            "Small, steady changes, made consistently, are what protect your liver in the long run."
+          ]}
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "Can an Ayurvedic diet reverse fatty liver?",
+      answer: "Early-stage fatty liver can often improve with a healthy diet, regular exercise and weight loss. Results vary by person, so follow your doctor&apos;s guidance and monitor with tests."
+    },
+    {
+      question: "Is ghee allowed in a fatty liver diet?",
+      answer: "A small amount is traditionally used, but excess fat can work against you. Ask your doctor how much is right for you."
+    },
+    {
+      question: "Which millets are best for fatty liver?",
+      answer: "Jowar, bajra and ragi are popular options because of their fibre content. Rotate them through the week for variety."
+    },
+    {
+      question: "Is turmeric good for the liver?",
+      answer: "Turmeric is widely used in Indian cooking and appears in many liver-friendly meals. Use it as a food spice. Avoid high-dose supplements unless your doctor approves."
+    },
+    {
+      question: "Can I drink fruit juice with fatty liver?",
+      answer: "It is better to eat whole fruit than drink juice, because juice lacks fibre and spikes sugar. Avoid packaged and sweetened juices."
+    },
+    {
+      question: "How long does it take to see improvement?",
+      answer: "It depends on your starting point, weight loss and consistency. Many people see changes in follow-up tests after several months of sustained lifestyle change. Your doctor can track progress."
+    },
+    {
+      question: "Is this plan vegetarian?",
+      answer: "Yes, it is fully vegetarian and built around everyday Indian foods."
+    },
+    {
+      question: "Is this plan safe for diabetics?",
+      answer: "Millets, vegetables and dals can suit many diabetics, but portions and carbohydrate counts matter. Have the plan adjusted by your doctor or dietitian."
+    }
+  ],
+
+  metaTags: {
+    title: "Ayurvedic Diet for Fatty Liver: Weekly Meal Plan",
+    description: "Follow a simple Ayurvedic diet for fatty liver with a 7-day meal plan, foods to eat and avoid, and a grocery list. Consult your doctor before starting.",
+    keywords: "Ayurvedic diet for fatty liver, fatty liver diet plan, weekly meal plan for fatty liver, fatty liver diet chart India, Ayurvedic diet for liver health, what to eat in fatty liver, foods to avoid in fatty liver, 7 day fatty liver diet plan, Indian diet for fatty liver, fatty liver diet vegetarian, Ayurveda for fatty liver, how to reduce fatty liver naturally, liver friendly foods India, millets for fatty liver, lauki for fatty liver, moong dal for fatty liver, buttermilk for fatty liver, turmeric for liver health, Ayurvedic meal plan for weight loss, non alcoholic fatty liver diet, NAFLD diet India, fatty liver grade 1 diet, liver detox foods Ayurveda, The Buyzaar Mart",
+    alternates: {
+      canonical: "https://www.balpradaindia.com/blog/ayurvedic-diet-for-fatty-liver-weekly-meal-plan"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.balpradaindia.com/blog/ayurvedic-diet-for-fatty-liver-weekly-meal-plan",
+      title: "Ayurvedic Diet for Fatty Liver: Weekly Meal Plan",
+      description: "Follow a simple Ayurvedic diet for fatty liver with a 7-day meal plan, foods to eat and avoid, and a grocery list. Consult your doctor before starting.",
+      images: [{ url: "/icon.png", width: 1200, height: 630, alt: "Ayurvedic Diet for Fatty Liver: Weekly Meal Plan — Balprada Ayurvedic Hospital" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Ayurvedic Diet for Fatty Liver: Weekly Meal Plan",
+      description: "Follow a simple Ayurvedic diet for fatty liver with a 7-day meal plan, foods to eat and avoid, and a grocery list. Consult your doctor before starting.",
+      images: ["/icon.png"]
+    },
+    icons: { icon: "/icon.png" }
+  }
 }
 
 ];
