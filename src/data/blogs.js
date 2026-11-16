@@ -3775,7 +3775,7 @@ export const blogs = [
             "These descriptions come from classical texts and traditional practice.",
             "It is placed among Rasayana herbs, meaning those traditionally used to support long-term strength and recovery.",
             "Ayurveda always looks at the whole person. A herb is chosen after the doctor studies your body type, digestion and condition.",
-            "Link: <a href='https://www.balpradaindia.com/blog/what-is-ayurveda-history-principles-how-it-works' style='color:#2563eb;'>Vata, Pitta, Kapha and Prakriti guide</a>."
+            " <a href='https://www.balpradaindia.com/blog/what-is-ayurveda-history-principles-how-it-works' style='color:#2563eb;'>Vata, Pitta, Kapha and Prakriti guide</a>."
           ]}
         ]
       },
@@ -3790,7 +3790,7 @@ export const blogs = [
           { type: "subheading", text: "Digestion and Appetite" },
           { type: "bullets", items: [
             "Bitter herbs are traditionally used to awaken appetite and support weak digestion.",
-            "Link: <a href='https://www.balpradaindia.com/blog/agni-in-ayurveda-why-digestion-fire-matters' style='color:#2563eb;'>Agni</a> and <a href='https://www.balpradaindia.com/blog/ama-toxins-in-ayurveda-signs-and-causes' style='color:#2563eb;'>Ama</a> guides."
+            " <a href='https://www.balpradaindia.com/blog/agni-in-ayurveda-why-digestion-fire-matters' style='color:#2563eb;'>Agni</a> and <a href='https://www.balpradaindia.com/blog/ama-toxins-in-ayurveda-signs-and-causes' style='color:#2563eb;'>Ama</a> guides."
           ]},
           { type: "subheading", text: "Pitta Related Complaints" },
           { type: "bullets", items: [
@@ -3872,7 +3872,7 @@ export const blogs = [
           { type: "bullets", items: [
             "Giloy products vary widely.",
             "Use products only from reliable, licensed sources with clear labels.",
-            "Link: <a href='https://www.balpradaindia.com/blog/is-ayurvedic-treatment-safe-what-to-check-before-you-start' style='color:#2563eb;'>Is Ayurvedic Treatment Safe? guide</a>.",
+            " <a href='https://www.balpradaindia.com/blog/is-ayurvedic-treatment-safe-what-to-check-before-you-start' style='color:#2563eb;'>Is Ayurvedic Treatment Safe? guide</a>.",
             "The right dose and form depend on the person, so do not copy a dose from the internet or from a friend.",
             "More is not better."
           ]},
@@ -3900,9 +3900,9 @@ export const blogs = [
         content: [
           { type: "bullets", items: [
             "Eat fresh, home-cooked, balanced meals at regular times, with seasonal fruits and vegetables.",
-            "Link: <a href='https://www.balpradaindia.com/blog/ritucharya-what-to-eat-and-avoid-in-each-season' style='color:#2563eb;'>Ritucharya guide</a>.",
+            " <a href='https://www.balpradaindia.com/blog/ritucharya-what-to-eat-and-avoid-in-each-season' style='color:#2563eb;'>Ritucharya guide</a>.",
             "Sleep on time, stay active and manage stress.",
-            "Link: <a href='https://www.balpradaindia.com/blog/ayurvedic-daily-routine-dinacharya-for-better-health' style='color:#2563eb;'>Dinacharya guide</a>.",
+            " <a href='https://www.balpradaindia.com/blog/ayurvedic-daily-routine-dinacharya-for-better-health' style='color:#2563eb;'>Dinacharya guide</a>.",
             "Avoid smoking and alcohol, and keep up with vaccines and regular check-ups.",
             "Keep blood sugar, blood pressure and weight under control."
           ]}
@@ -4047,7 +4047,7 @@ export const blogs = [
             "These descriptions come from classical texts and traditional practice.",
             "It is placed among the herbs traditionally called Balya, meaning supportive of strength, and Vrishya, meaning supportive of vitality.",
             "Ayurveda always looks at the whole person. A herb is chosen after the doctor studies your body type, digestion and condition.",
-            "Link: <a href='https://www.balpradaindia.com/blog/what-is-ayurveda-history-principles-how-it-works' style='color:#2563eb;'>Vata, Pitta, Kapha and Prakriti guide</a>."
+            " <a href='https://www.balpradaindia.com/blog/what-is-ayurveda-history-principles-how-it-works' style='color:#2563eb;'>Vata, Pitta, Kapha and Prakriti guide</a>."
           ]}
         ]
       },
@@ -4142,7 +4142,7 @@ export const blogs = [
           { type: "bullets", items: [
             "Ashwagandha products vary widely in strength and purity, and some are mixed with other ingredients.",
             "Use products only from reliable, licensed sources with clear labels.",
-            "Link: <a href='https://www.balpradaindia.com/blog/is-ayurvedic-treatment-safe-what-to-check-before-you-start' style='color:#2563eb;'>Is Ayurvedic Treatment Safe? guide</a>.",
+            " <a href='https://www.balpradaindia.com/blog/is-ayurvedic-treatment-safe-what-to-check-before-you-start' style='color:#2563eb;'>Is Ayurvedic Treatment Safe? guide</a>.",
             "The right dose and form depend on the person, so do not copy a dose from the internet or from a friend.",
             "More is not better."
           ]},
@@ -4200,7 +4200,7 @@ export const blogs = [
             "Balprada has its own pathology lab that supports blood, urine and other diagnostic testing.",
             "Patients from Bilari, Moradabad, Rampur and nearby areas can visit our ashram and clinic, open 7 days a week from 10:00 AM to 2:00 PM, with free OPD on the 15th of every month.",
             "🔗 <strong>Book a consultation:</strong> call or WhatsApp <a href='tel:8126364606' style='color:#2563eb;'>8126364606</a>, or visit <a href='https://www.balpradaindia.com/contact' style='color:#2563eb;'>balpradaindia.com/contact</a>.",
-            "Link: <a href='https://www.balpradaindia.com/blog/what-happens-in-the-first-ayurvedic-consultation' style='color:#2563eb;'>What Happens in the First Ayurvedic Consultation?</a>"
+            " <a href='https://www.balpradaindia.com/blog/what-happens-in-the-first-ayurvedic-consultation' style='color:#2563eb;'>What Happens in the First Ayurvedic Consultation?</a>"
           ]}
         ]
       }
@@ -4317,7 +4317,7 @@ export const blogs = [
             "Triphala is traditionally said to help balance all three doshas, Vata, Pitta and Kapha, which is why it is often called Tridoshic.",
             "Amalaki is cooling and is linked with Pitta, Haritaki is linked with Vata, and Bibhitaki is linked with Kapha, according to traditional descriptions.",
             "Ayurveda always looks at the whole person. A formulation is chosen after the doctor studies your body type, digestion and condition.",
-            "Link: <a href='https://www.balpradaindia.com/blog/what-is-ayurveda-history-principles-how-it-works' style='color:#2563eb;'>Vata, Pitta, Kapha and Prakriti guide</a>."
+            " <a href='https://www.balpradaindia.com/blog/what-is-ayurveda-history-principles-how-it-works' style='color:#2563eb;'>Vata, Pitta, Kapha and Prakriti guide</a>."
           ]}
         ]
       },
@@ -4328,7 +4328,7 @@ export const blogs = [
           { type: "subheading", text: "Digestion and Bowel Regularity" },
           { type: "bullets", items: [
             "Triphala is traditionally used to support digestion, appetite and regular bowel movement.",
-            "Link: <a href='https://www.balpradaindia.com/blog/agni-in-ayurveda-why-digestion-fire-matters' style='color:#2563eb;'>Agni</a> and <a href='https://www.balpradaindia.com/blog/ama-toxins-in-ayurveda-signs-and-causes' style='color:#2563eb;'>Ama</a> guides."
+            " <a href='https://www.balpradaindia.com/blog/agni-in-ayurveda-why-digestion-fire-matters' style='color:#2563eb;'>Agni</a> and <a href='https://www.balpradaindia.com/blog/ama-toxins-in-ayurveda-signs-and-causes' style='color:#2563eb;'>Ama</a> guides."
           ]},
           { type: "subheading", text: "Gentle Cleansing" },
           { type: "bullets", items: [
@@ -4413,7 +4413,7 @@ export const blogs = [
           { type: "bullets", items: [
             "Triphala products vary in the ratio of the three fruits and in purity.",
             "Use products only from reliable, licensed sources with clear labels.",
-            "Link: <a href='https://www.balpradaindia.com/blog/is-ayurvedic-treatment-safe-what-to-check-before-you-start' style='color:#2563eb;'>Is Ayurvedic Treatment Safe? guide</a>."
+            " <a href='https://www.balpradaindia.com/blog/is-ayurvedic-treatment-safe-what-to-check-before-you-start' style='color:#2563eb;'>Is Ayurvedic Treatment Safe? guide</a>."
           ]},
           { type: "subheading", text: "Warning Signs" },
           { type: "bullets", items: [
@@ -4438,10 +4438,10 @@ export const blogs = [
         content: [
           { type: "bullets", items: [
             "Eat fresh, home-cooked, balanced meals at regular times, with enough fibre.",
-            "Link: <a href='https://www.balpradaindia.com/blog/ritucharya-what-to-eat-and-avoid-in-each-season' style='color:#2563eb;'>Ritucharya guide</a>.",
+            " <a href='https://www.balpradaindia.com/blog/ritucharya-what-to-eat-and-avoid-in-each-season' style='color:#2563eb;'>Ritucharya guide</a>.",
             "Drink enough water, move daily and avoid sitting for long hours.",
             "Sleep on time and manage stress.",
-            "Link: <a href='https://www.balpradaindia.com/blog/ayurvedic-daily-routine-dinacharya-for-better-health' style='color:#2563eb;'>Dinacharya guide</a>.",
+            " <a href='https://www.balpradaindia.com/blog/ayurvedic-daily-routine-dinacharya-for-better-health' style='color:#2563eb;'>Dinacharya guide</a>.",
             "Limit very oily, fried and processed food."
           ]}
         ]
@@ -4468,7 +4468,7 @@ export const blogs = [
             "Balprada has its own pathology lab that supports blood, urine and other diagnostic testing.",
             "Patients from Bilari, Moradabad, Rampur and nearby areas can visit our ashram and clinic, open 7 days a week from 10:00 AM to 2:00 PM, with free OPD on the 15th of every month.",
             "🔗 <strong>Book a consultation:</strong> call or WhatsApp <a href='tel:8126364606' style='color:#2563eb;'>8126364606</a>, or visit <a href='https://www.balpradaindia.com/contact' style='color:#2563eb;'>balpradaindia.com/contact</a>.",
-            "Link: <a href='https://www.balpradaindia.com/blog/what-happens-in-the-first-ayurvedic-consultation' style='color:#2563eb;'>What Happens in the First Ayurvedic Consultation?</a>"
+            " <a href='https://www.balpradaindia.com/blog/what-happens-in-the-first-ayurvedic-consultation' style='color:#2563eb;'>What Happens in the First Ayurvedic Consultation?</a>"
           ]}
         ]
       }
@@ -6230,6 +6230,336 @@ export const blogs = [
       card: "summary_large_image",
       title: "Foods That Strain the Kidneys in Ayurveda",
       description: "Learn which foods Ayurveda says burden the kidneys, what modern renal care adds, and kidney-friendly swaps for your kitchen. Consult your doctor first.",
+      images: ["/icon.png"]
+    },
+    icons: { icon: "/icon.png" }
+  }
+},
+
+{
+  id: 25,
+  slug: "best-ayurvedic-drinks-for-daily-health",
+  title: "Best Ayurvedic Drinks for Daily Health | Balprada Bilari",
+  subtitle: "Explore simple Ayurvedic drinks like warm water, jeera water and takra, who should take care, and when to ask a doctor. Guidance from Balprada Hospital, Bilari.",
+  category: "Ayurveda | Diet",
+  author: "Balprada Ayurvedic Hospital Team",
+  date: "2026-11-16",
+  readTime: "10 min read",
+  image: "https://res.cloudinary.com/hiu9gggc/image/upload/v1794463315/kadha-churna-ras-bhasma-ayurvedic-medicine-forms-explained.jpg",
+  content: "Explore simple Ayurvedic drinks like warm water, jeera water, CCF water and takra. Learn who should take care and when to ask a doctor before changing your drinks.",
+  tags: [
+    "Ayurvedic Drinks",
+    "Best Ayurvedic Drinks for Daily Health",
+    "Ayurvedic Drinks for Digestion",
+    "Warm Water Ayurveda",
+    "Ushnodaka",
+    "Jeera Water Benefits",
+    "Cumin Water",
+    "CCF Water",
+    "Coriander Cumin Fennel Water",
+    "Buttermilk Takra Ayurveda",
+    "Ginger Tulsi Drink",
+    "Haldi Doodh",
+    "Turmeric Milk",
+    "Coconut Water Ayurveda",
+    "Seasonal Ayurvedic Drinks",
+    "Summer Drinks Ayurveda",
+    "Winter Drinks Ayurveda",
+    "Healthy Drinks India",
+    "Ayurvedic Herbal Tea",
+    "Ayurvedic Detox Drinks Myth",
+    "Drinks for Kidney Patients",
+    "Drinks for Fatty Liver",
+    "Ayurvedic Hospital Bilari",
+    "Balprada Ayurvedic Hospital"
+  ],
+
+  fullContent: {
+    introduction: "Ayurveda treats what you drink as part of your daily diet, not as an extra. Drinks are chosen for the person, the season and the state of digestion. Simple home drinks such as warm water, spiced buttermilk and light herbal infusions are traditionally used to support digestion and comfort.",
+
+    sections: [
+      {
+        heading: "Drinks in Ayurveda: The Basics",
+        content: [
+          { type: "bullets", items: [
+            "Ayurveda treats what you drink as part of your daily diet, not as an extra.",
+            "Drinks are chosen for the person, the season and the state of digestion.",
+            " <a href='https://www.balpradaindia.com/blog/agni-in-ayurveda-why-digestion-fire-matters' style='color:#2563eb;'>Agni</a> and <a href='https://www.balpradaindia.com/blog/ayurvedic-daily-routine-dinacharya-for-better-health' style='color:#2563eb;'>Dinacharya</a> guides.",
+            "Simple home drinks such as warm water, spiced buttermilk and light herbal infusions are traditionally used to support digestion and comfort.",
+            "These are traditional practices, not treatments for any disease.",
+            "The best drink is not the one with the most herbs. It is the one that suits your body, your health condition and your medicines, so a few well chosen drinks are better than many."
+          ]}
+        ]
+      },
+
+      {
+        heading: "How to Choose a Drink",
+        content: [
+          { type: "bullets", items: [
+            "Match it to digestion. If you feel heavy, bloated or sluggish, light and warm drinks are traditionally preferred. If you feel heat or acidity, cooling drinks are preferred.",
+            "Match it to the season.",
+            " <a href='https://www.balpradaindia.com/blog/ritucharya-what-to-eat-and-avoid-in-each-season' style='color:#2563eb;'>Ritucharya guide</a>.",
+            "Check your health first. People with kidney disease, diabetes, liver disease, pregnancy or regular medicines need advice before changing what they drink."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Warm Water (Ushnodaka)",
+        content: [
+          { type: "subheading", text: "What It Is" },
+          { type: "bullets", items: [
+            "Plain water that is boiled and then cooled until it is comfortably warm to sip."
+          ]},
+          { type: "subheading", text: "Traditional Use" },
+          { type: "bullets", items: [
+            "It is traditionally taken in small sips through the day, and in the morning as part of the daily routine, to support digestion and a feeling of lightness."
+          ]},
+          { type: "subheading", text: "Points to Know" },
+          { type: "bullets", items: [
+            "People with kidney disease, heart failure or swelling may have a fluid limit and should follow their doctor on how much to drink."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Jeera (Cumin) Water",
+        content: [
+          { type: "subheading", text: "What It Is" },
+          { type: "bullets", items: [
+            "Cumin seeds soaked overnight or boiled in water and then strained."
+          ]},
+          { type: "subheading", text: "Traditional Use" },
+          { type: "bullets", items: [
+            "It is traditionally used to support digestion and ease gas and heaviness after meals."
+          ]},
+          { type: "subheading", text: "Points to Know" },
+          { type: "bullets", items: [
+            "Use a small quantity of seeds. Too much may cause acidity or burning in some people."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Coriander, Cumin and Fennel Water",
+        content: [
+          { type: "subheading", text: "What It Is" },
+          { type: "bullets", items: [
+            "A mild infusion of equal parts coriander, cumin and fennel seeds, often called CCF water."
+          ]},
+          { type: "subheading", text: "Traditional Use" },
+          { type: "bullets", items: [
+            "It is traditionally described as cooling and gentle, and is used for digestion and for Pitta related heat and acidity."
+          ]},
+          { type: "subheading", text: "Points to Know" },
+          { type: "bullets", items: [
+            "Fennel and coriander in large amounts are not advised in pregnancy without medical advice."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Buttermilk (Takra)",
+        content: [
+          { type: "subheading", text: "What It Is" },
+          { type: "bullets", items: [
+            "Thin buttermilk made from fresh curd, churned and diluted with water."
+          ]},
+          { type: "subheading", text: "Traditional Use" },
+          { type: "bullets", items: [
+            "Takra is highly praised in classical texts for digestion, especially after meals, when it is fresh and not sour.",
+            "A pinch of roasted cumin is the usual addition."
+          ]},
+          { type: "subheading", text: "Points to Know" },
+          { type: "bullets", items: [
+            "Avoid it at night and in people with cough, cold or sinus problems, as traditionally advised.",
+            "Packaged buttermilk can have added salt and sugar.",
+            "People with high blood pressure, kidney disease or diabetes should check labels and ask their doctor."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Ginger and Tulsi Drinks",
+        content: [
+          { type: "subheading", text: "What It Is" },
+          { type: "bullets", items: [
+            "Ginger (sonth or adrak) and Tulsi leaves boiled in water, with or without a small amount of jaggery."
+          ]},
+          { type: "subheading", text: "Traditional Use" },
+          { type: "bullets", items: [
+            "They are traditionally used in cold weather and in the monsoon, for appetite, throat comfort and Kapha related heaviness."
+          ]},
+          { type: "subheading", text: "Points to Know" },
+          { type: "bullets", items: [
+            "Ginger may increase acidity and may add to the effect of blood thinners and diabetes medicines. Tell your doctor if you take them.",
+            "Keep the quantity small, and do not use strong ginger drinks daily without advice if you have gastric problems."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Haldi Doodh (Turmeric Milk)",
+        content: [
+          { type: "subheading", text: "What It Is" },
+          { type: "bullets", items: [
+            "Warm milk with a small pinch of turmeric, taken in the evening."
+          ]},
+          { type: "subheading", text: "Traditional Use" },
+          { type: "bullets", items: [
+            "It is a common home drink in winter and for comfort at bedtime."
+          ]},
+          { type: "subheading", text: "Points to Know" },
+          { type: "bullets", items: [
+            "Keep the turmeric amount small, as in food. High dose turmeric supplements may not suit people with liver or gallbladder problems, or those on blood thinners.",
+            "People who cannot digest milk should avoid it."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Coconut Water",
+        content: [
+          { type: "subheading", text: "What It Is" },
+          { type: "bullets", items: [
+            "The clear water of a tender coconut."
+          ]},
+          { type: "subheading", text: "Traditional Use" },
+          { type: "bullets", items: [
+            "It is traditionally used as a cooling summer drink."
+          ]},
+          { type: "subheading", text: "Points to Know" },
+          { type: "bullets", items: [
+            "It is high in potassium. People with kidney disease are often asked to limit it, so check with the doctor first.",
+            " <a href='https://www.balpradaindia.com/blog/ayurvedic-diet-for-kidney-patients-weekly-meal-plan' style='color:#2563eb;'>Ayurvedic Diet for Kidney Patients guide</a>."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Seasonal Drink Ideas",
+        content: [
+          { type: "bullets", items: [
+            "<strong>Summer:</strong> buttermilk, fennel or coriander water and coconut water, to stay cool and hydrated.",
+            "<strong>Monsoon:</strong> warm water and light ginger or Tulsi drinks, because digestion is weaker.",
+            "<strong>Winter:</strong> warm water, a mild ginger drink and turmeric milk, in small amounts."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Drinks to Be Careful With",
+        content: [
+          { type: "bullets", items: [
+            "Sweetened tea, coffee, soft drinks, energy drinks and packaged juices add sugar and little else. Whole fruit is a better choice than juice.",
+            "Detox teas, fat burner drinks and ready mixed herbal powders sold with big promises are not proven. Some products have been found to be contaminated.",
+            " <a href='https://www.balpradaindia.com/blog/herbal-medicines-and-heavy-metals-how-to-check-quality' style='color:#2563eb;'>Herbal Medicines and Heavy Metals guide</a>.",
+            "Drinks with strong herbs such as Giloy, Neem or Ashwagandha should be taken only on medical advice.",
+            " <a href='https://www.balpradaindia.com/blog/guduchi-amla-neem-top-ayurvedic-herbs-explained' style='color:#2563eb;'>Guduchi, Amla, Neem guide</a>."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Who Should Take Medical Advice First",
+        content: [
+          { type: "bullets", items: [
+            "People with kidney disease, who may need to limit fluids, potassium and salt.",
+            " <a href='https://www.balpradaindia.com/blog/ayurvedic-diet-for-kidney-patients-weekly-meal-plan' style='color:#2563eb;'>Ayurvedic Diet for Kidney Patients</a> and <a href='https://www.balpradaindia.com/blog/foods-that-strain-the-kidneys-in-ayurveda' style='color:#2563eb;'>Foods That Strain the Kidneys</a> guides.",
+            "People with fatty liver or other liver problems, as some herbal drinks and supplements can stress the liver.",
+            " <a href='https://www.balpradaindia.com/blog/ayurvedic-diet-for-fatty-liver-weekly-meal-plan' style='color:#2563eb;'>Ayurvedic Diet for Fatty Liver guide</a>.",
+            "People with diabetes, because jaggery, honey and sweetened drinks affect blood sugar.",
+            "Pregnant and breastfeeding women, and children, as many herbs are not advised in large amounts.",
+            "Anyone taking regular medicines, especially blood thinners, diabetes and blood pressure medicines."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Safe Habits for Daily Drinks",
+        content: [
+          { type: "bullets", items: [
+            "Sip, do not gulp, and keep water clean. Drink when thirsty unless your doctor has set a fluid limit.",
+            "Do not heat honey, and do not give honey to children under one year, as traditional and medical advice agree.",
+            "Stop a drink and see a doctor if it causes rash, swelling, breathlessness, vomiting, severe stomach pain or burning."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Common Myths",
+        content: [
+          { type: "bullets", items: [
+            "<strong>Myth:</strong> a detox drink can clean the body. <strong>Fact:</strong> the liver and kidneys do this work, and detox claims are not proven.",
+            "<strong>Myth:</strong> natural drinks are safe for everyone. <strong>Fact:</strong> herbs can interact with medicines and may not suit every person."
+          ]}
+        ]
+      },
+
+      {
+        heading: "When to See a Doctor",
+        content: [
+          { type: "bullets", items: [
+            "See a doctor if you have constant thirst, passing very little or very much urine, swelling, long-lasting acidity or bloating, or unexplained weight change.",
+            "Seek urgent care for fainting, confusion, severe vomiting or breathlessness.",
+            "Never stop prescribed medicines for any drink."
+          ]}
+        ]
+      },
+
+      {
+        heading: "Ayurvedic Guidance at Balprada Ayurvedic Hospital, Bilari",
+        content: [
+          { type: "bullets", items: [
+            "Balprada Ayurvedic Hospital &amp; Research Center in Bilari, Moradabad has offered Ayurvedic care for 35 years, with consultation, diet and routine based care and regular follow-up.",
+            "Our doctors review your concern, history, reports and current medicines before suggesting any drink, herb or plan.",
+            "Balprada has its own pathology lab that supports blood, urine and other diagnostic testing.",
+            "Patients from Bilari, Moradabad, Rampur and nearby areas can visit our ashram and clinic, open 7 days a week from 10:00 AM to 2:00 PM, with free OPD on the 15th of every month.",
+            "🔗 <strong>Book a consultation:</strong> call or WhatsApp <a href='tel:8126364606' style='color:#2563eb;'>8126364606</a>, or visit <a href='https://www.balpradaindia.com/contact' style='color:#2563eb;'>balpradaindia.com/contact</a>.",
+            " <a href='https://www.balpradaindia.com/blog/what-happens-in-the-first-ayurvedic-consultation' style='color:#2563eb;'>What Happens in the First Ayurvedic Consultation?</a>"
+          ]}
+        ]
+      }
+    ]
+  },
+
+  faqs: [
+    {
+      question: "What is the best Ayurvedic drink to have daily?",
+      answer: "There is no single best drink. Warm water, spiced buttermilk and light seed infusions are common choices, but the right one depends on you."
+    },
+    {
+      question: "Is warm water good for digestion?",
+      answer: "It is traditionally used for digestion and lightness, but people with fluid limits should follow their doctor."
+    },
+    {
+      question: "Can I drink Ayurvedic herbal tea every day?",
+      answer: "Mild drinks such as cumin or fennel water are commonly used, but strong herbal drinks should be taken only on medical advice."
+    },
+    {
+      question: "Which Ayurvedic drinks should kidney patients avoid?",
+      answer: "Drinks high in potassium, salt or sugar, such as coconut water and packaged juices, are often restricted, so follow your doctor."
+    }
+  ],
+
+  metaTags: {
+    title: "Best Ayurvedic Drinks for Daily Health | Balprada Bilari",
+    description: "Explore simple Ayurvedic drinks like warm water, jeera water and takra, who should take care, and when to ask a doctor. Guidance from Balprada Hospital, Bilari.",
+    keywords: "Ayurvedic drinks, best Ayurvedic drinks for daily health, Ayurvedic drinks for digestion, warm water Ayurveda, Ushnodaka, jeera water benefits, cumin water, CCF water, coriander cumin fennel water, buttermilk takra Ayurveda, ginger tulsi drink, haldi doodh, turmeric milk, coconut water Ayurveda, seasonal Ayurvedic drinks, summer drinks Ayurveda, winter drinks Ayurveda, healthy drinks India, Ayurvedic herbal tea, Ayurvedic detox drinks myth, drinks for kidney patients, drinks for fatty liver, Ayurvedic hospital Bilari, Balprada Ayurvedic Hospital",
+    alternates: {
+      canonical: "https://www.balpradaindia.com/blog/best-ayurvedic-drinks-for-daily-health"
+    },
+    openGraph: {
+      type: "article",
+      url: "https://www.balpradaindia.com/blog/best-ayurvedic-drinks-for-daily-health",
+      title: "Best Ayurvedic Drinks for Daily Health | Balprada Bilari",
+      description: "Explore simple Ayurvedic drinks like warm water, jeera water and takra, who should take care, and when to ask a doctor. Guidance from Balprada Hospital, Bilari.",
+      images: [{ url: "/icon.png", width: 1200, height: 630, alt: "Best Ayurvedic Drinks for Daily Health — Balprada Ayurvedic Hospital" }]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Best Ayurvedic Drinks for Daily Health | Balprada Bilari",
+      description: "Explore simple Ayurvedic drinks like warm water, jeera water and takra, who should take care, and when to ask a doctor. Guidance from Balprada Hospital, Bilari.",
       images: ["/icon.png"]
     },
     icons: { icon: "/icon.png" }
